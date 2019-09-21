@@ -1,20 +1,10 @@
 {
   "streams": [
     {
-      "title": "TEST STREAM",
-      "description": "A GREAT TEST STREAM",
-      "id": 1
-    },
-    {
-      "title": "TEST STREAM",
-      "description": "A GREAT TEST STREAM",
-      "id": 2
-    },
-    {
-      "title": "THIS IS A STREAM  [b42020]",
-      "description": "B_4 2020",
+      "title": "A new stream",
+      "description": "a monetizing stream",
       "userId": "115317318865268854817",
-      "id": 3
+      "id": 1
     }
   ]
 }
